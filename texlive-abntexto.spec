@@ -1,6 +1,6 @@
 Name:		texlive-abntexto
-Version:	64694
-Release:	2
+Version:	68837
+Release:	1
 Summary:	LaTeX class for formatting academic papers in ABNT standards
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/abntexto
