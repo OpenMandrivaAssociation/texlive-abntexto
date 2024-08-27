@@ -1,5 +1,5 @@
 Name:		texlive-abntexto
-Version:	68837
+Version:	70885
 Release:	1
 Summary:	LaTeX class for formatting academic papers in ABNT standards
 Group:		Publishing
