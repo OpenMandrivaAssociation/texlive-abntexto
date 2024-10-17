@@ -3,7 +3,7 @@ Version:	70885
 Release:	1
 Summary:	LaTeX class for formatting academic papers in ABNT standards
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/abntexto
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/abntexto
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/abntexto.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/abntexto.doc.r%{version}.tar.xz
